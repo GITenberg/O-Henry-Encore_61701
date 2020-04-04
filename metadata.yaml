@@ -1,0 +1,47 @@
+_repo: O-Henry-Encore_61701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+  editor:
+    agent_name: Harrell, Mary Sunlocks
+    gutenberg_agent_id: '51568'
+    url: http://www.gutenberg.org/2009/agents/51568
+description: ''
+gutenberg_issued: '2020-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61701'
+  lccn: '39027937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: 'Part one, stories: A night errant. In mezzotint. The dissipated
+  jeweler. How Willie saved father. The mirage on the Frio. A tragedy. Sufficient
+  provocation. The bruised reed. Paderewski''s hair. A mystery of many centuries.
+  A strange case. Simmon''s Saturday night. An unknown romance. Jack the Giant Killer.
+  The pint flask. An odd character. A Houston romance. The legend of San Jacinto.
+  Binkley''s Practical School of Journalism. A new microbe. Vereton villa. Whiskey
+  did it. Nothing new under the sun. Led astray. A story for men. How she got in the
+  swim. The barber talks. Barbershop adventure -- Part two, sketches: Did you see
+  the circus? Thanksgiving remarks. When the train comes in. Christmas eve. New Year''s
+  eve. Watchman, what of the night? Newspaper poets -- Part three, newspaper poetry:
+  Topical verse. Cape jessamines. The cricket. My broncho. The modern Venus. Celestial
+  sounds. The snow. Her choice. "Little things, but ain''t they whizzers?" Last fall
+  of the Alamo.'
+title: O. Henry Encore
+url: http://www.gutenberg.org/ebooks/61701
